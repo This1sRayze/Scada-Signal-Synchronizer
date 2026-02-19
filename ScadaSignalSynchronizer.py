@@ -102,7 +102,7 @@ class SCADASyncUI:
         log_container = tk.Frame(log_frame, bg='#ffffff')
         log_container.pack(fill="both", expand=True)
         
-        self.log_text = tk.Text(log_container, height=20, wrap="word", bg='#f8f9fa', 
+        self.log_text = tk.Text(log_container, height=10, wrap="word", bg='#f8f9fa', 
                                fg='#2c3e50', font=('Consolas', 9), relief='flat', padx=10, pady=10)
         self.log_text.pack(side="left", fill="both", expand=True)
         

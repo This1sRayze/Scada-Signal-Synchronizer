@@ -105,15 +105,3 @@ All operations are logged to the in-app "Processing Log" panel, including:
 
 - **Update tag names**: Toggle whether to update tag names during synchronization
 - **Smart descriptions**: Always enabled - formats variant names intelligently without data-type suffixes
-
-## Output
-
-The synchronized Excel file is saved to your selected location with the custom filename you provide.
-
-## License
-
-[Add your license information here]
-
-## Support
-
-For issues or questions, please contact the development team.
